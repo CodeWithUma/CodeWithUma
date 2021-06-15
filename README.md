@@ -4,14 +4,13 @@ The best part about me is that I am eager to learn. And also a self motivated pe
             Other than this I am foodie person🍕🍔🍟🥚🍗  and loves to drink coffee ☕.
 
 
-
-- 👋 Hi, I’m @CodeWithUma
-- 👀 I’m interested in ...
+✨**Learning**
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently building some projects in Bootstrap and Javascript.
 - 💞️ I’m looking to collaborate on amazing web projects.
 - 📫 Connect Me on : [LinkedIn](https://www.linkedin.com/in/uma-prasad-das-79531b192/)
 
 <!---
-CodeWithUma/CodeWithUma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CodeWithUma/CodeWithUma is a ✨ special  repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
