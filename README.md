@@ -6,7 +6,7 @@ or stuck in some work. I have some experience in programming languages like C, C
 
 ✨**Learning**
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently building some projects in Bootstrap and Javascript.
+- 🌱 I’m currently building some projects in Java.
 - 💞️ I’m looking to collaborate on amazing web projects.
 - 📫 Connect Me on : [LinkedIn](https://www.linkedin.com/in/uma-prasad-das-79531b192/)
 
