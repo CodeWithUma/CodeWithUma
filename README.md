@@ -23,3 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&langs_count=8)](https://github.com/CodeWithUma/github-readme-stats)
