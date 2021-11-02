@@ -22,4 +22,6 @@ You can click the Preview link to take a look at your changes.
 - [Project 4](https://codewithuma.github.io/Front-end%20dev%20test/index.html)
 
 [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
+![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma&count_private=true)
+
 
