@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&langs_count=8)](https://github.com/CodeWithUma/github-readme-stats) -->
 
 <a href="https://github.com/CodeWithUma/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithUma&repo=github-readme-stats" />
+  <img align="center" src="[![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)" />
 </a>
 <a href="https://github.com/CodeWithUma/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithUma&repo=convoychat" />
+  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)" />
 </a>
