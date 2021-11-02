@@ -21,13 +21,5 @@ You can click the Preview link to take a look at your changes.
 - [Project 3](https://codewithuma.github.io/javascript%20clock/project1.html)
 - [Project 4](https://codewithuma.github.io/Front-end%20dev%20test/index.html)
 
-<!-- [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
+[![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&langs_count=8)](https://github.com/CodeWithUma/github-readme-stats) -->
-
-<a href="https://github.com/CodeWithUma/github-readme-stats">
-  <img align="center" src="[![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)" />
-</a>
-<a href="https://github.com/CodeWithUma/convoychat">
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)" />
-</a>
