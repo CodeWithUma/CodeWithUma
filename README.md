@@ -16,10 +16,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ⚡**Projects**
-- [Project 1](https://codewithuma.github.io/LIFESTYLE%20STORE/public_html/index.html)
-- [Project 2](https://codewithuma.github.io/SUMAN%20FITNESS/index.html)
-- [Project 3](https://codewithuma.github.io/javascript%20clock/project1.html)
-- [Project 4](https://codewithuma.github.io/Front-end%20dev%20test/index.html)
+- [1. LIFESTYLE STORE](https://codewithuma.github.io/LIFESTYLE%20STORE/public_html/index.html)
+- [2. FITNESS WEBSITE](https://codewithuma.github.io/SUMAN%20FITNESS/index.html)
+- [3. JAVASCRIPT CLOCK](https://codewithuma.github.io/javascript%20clock/project1.html)
+- [4. FRONT END WEB PAGE](https://codewithuma.github.io/Front-end%20dev%20test/index.html)
 
 [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
