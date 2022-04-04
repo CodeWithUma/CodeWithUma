@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ⚡**Projects**
-- [1. LIFESTYLE STORE](https://codewithuma.github.io/LIFESTYLE%20STORE/public_html/index.html)
+- [1. SURVEY-FORM](https://codewithuma.github.io/survey-form/)
 - [2. FITNESS WEBSITE](https://codewithuma.github.io/SUMAN%20FITNESS/index.html)
 - [3. JAVASCRIPT CLOCK](https://codewithuma.github.io/javascript%20clock/project1.html)
 - [4. FRONT END WEB PAGE](https://codewithuma.github.io/Front-end%20dev%20test/index.html)
