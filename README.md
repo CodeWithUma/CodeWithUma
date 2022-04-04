@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ⚡**Projects**
 - [1. SURVEY-FORM](https://codewithuma.github.io/survey-form/)
-- [2. JAVASCRIPT CLOCK](https://codewithuma.github.io/javascript-clock/)
+- [2. JAVASCRIPT CLOCK](https://codewithuma.github.io/javascript-clock/project1.html)
 - [3. FRONT END WEB PAGE](https://codewithuma.github.io/Front-end%20dev%20test/index.html)
 
 [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
