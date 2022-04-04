@@ -16,11 +16,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ⚡**Projects**
-<!-- - <a href="https://codewithuma.github.io/survey-form/" target="_blank">1. SURVEY-FORM</a> -->
 - [1. SURVEY-FORM](https://codewithuma.github.io/survey-form/)
-<!-- - [2. FITNESS WEBSITE](https://codewithuma.github.io/SUMAN%20FITNESS/index.html) -->
 - [2. JAVASCRIPT CLOCK](https://codewithuma.github.io/javascript-clock/)
-- [4. FRONT END WEB PAGE](https://codewithuma.github.io/Front-end%20dev%20test/index.html)
+- [3. FRONT END WEB PAGE](https://codewithuma.github.io/Front-end%20dev%20test/index.html)
 
 [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
 <br>
