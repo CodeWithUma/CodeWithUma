@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 - [1. SURVEY-FORM](https://codewithuma.github.io/survey-form/)
 - [2. JAVASCRIPT CLOCK](https://codewithuma.github.io/javascript-clock/project1.html)
 - [3. LIFESTYLE-STORE](https://codewithuma.github.io/lifestyle-store/)
+- [4. SUMAN-FITNESS](https://codewithuma.github.io/suman-fitness/)
 
 [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
 <br>
