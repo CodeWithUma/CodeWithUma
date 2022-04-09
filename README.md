@@ -23,6 +23,4 @@ You can click the Preview link to take a look at your changes.
 - [5. ALARM-CLOCK](https://codewithuma.github.io/alarm-clock/)
 
 [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/CodeWithUma)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma)](https://github.com/CodeWithUma/CodeWithUma)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
