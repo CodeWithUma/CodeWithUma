@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 - [4. SUMAN-FITNESS](https://codewithuma.github.io/suman-fitness/)
 - [5. ALARM-CLOCK](https://codewithuma.github.io/alarm-clock/)
 
-[![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
+[![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/README.md)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma)](https://github.com/CodeWithUma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma)](https://github.com/CodeWithUma/README.md)
