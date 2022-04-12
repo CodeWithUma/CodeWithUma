@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithUma&theme=onedark&row=1&column=6)](https://github.com/CodeWithUma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge&style=center)
