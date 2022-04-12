@@ -27,6 +27,6 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithUma&theme=onedark&row=1&column=6)](https://github.com/CodeWithUma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithUma&theme=onedark&row=1&column=6&align=center)](https://github.com/CodeWithUma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge&style=center)
+![](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
