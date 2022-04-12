@@ -22,11 +22,7 @@ You can click the Preview link to take a look at your changes.
 - [4. SUMAN-FITNESS](https://codewithuma.github.io/suman-fitness/)
 - [5. ALARM-CLOCK](https://codewithuma.github.io/alarm-clock/)
 
-<p align="center"><img 
-    width="300"
-    height="300"
-    src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeWithUma&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)"
-  ></p>
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeWithUma&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)></p>
 
 
 
