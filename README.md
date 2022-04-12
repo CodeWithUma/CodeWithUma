@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 [![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma)](https://github.com/CodeWithUma/CodeWithUma)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&layout=compact)](https://github.com/CodeWithUma/CodeWithUma)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithUma&theme=onedark)](https://github.com/CodeWithUma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithUma&theme=onedark&row=2&column=3)](https://github.com/CodeWithUma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
