@@ -1,4 +1,5 @@
-#Hi there :wave:
+Hi there :wave:
+
 I'm Uma Prasad Das 😎 , completed my Bachelor of Technology (B. Tech.) graduation in Electronics and Communication Engineering (E.C.E.) 🙂 from National Institute of 
 Science and Technology (NIST Autonomous). The best part about me is that I am eager to learn new technologies. And also a self motivated person whenever I feel frustrated 
 or stuck in some work. I have some experience in programming languages like C, C++, Core Java. I'm a Frontend Web Developer.... 
