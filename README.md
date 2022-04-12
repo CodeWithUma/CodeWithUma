@@ -26,5 +26,4 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&layout=compact)](https://github.com/CodeWithUma/CodeWithUma)
 
 
-![](https://komarev.com/ghpvc/?username=CodeWithUma&style=flat-square)
-![](https://komarev.com/ghpvc/?username=CodeWithUma&color=blue)
+![](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
