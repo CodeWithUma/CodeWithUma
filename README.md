@@ -1,4 +1,4 @@
-Hi there :wave:
+<h2 align="center">Hello there, I'm Uma Das 👋</h2>
 
 I'm Uma Prasad Das 😎 , completed my Bachelor of Technology (B. Tech.) graduation in Electronics and Communication Engineering (E.C.E.) 🙂 from National Institute of 
 Science and Technology (NIST Autonomous). The best part about me is that I am eager to learn new technologies. And also a self motivated person whenever I feel frustrated 
