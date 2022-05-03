@@ -34,8 +34,8 @@ or stuck in some work. I have some experience in programming languages like C, C
 
 <hr>
 
-<h4 align="cemter">
+<!-- <h4 align="cemter">
 <a><img width="10%" height="30" src="https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge"></a>
-</h4>
+</h4> -->
             
 (https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
