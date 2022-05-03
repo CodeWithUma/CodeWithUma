@@ -2,7 +2,10 @@
 
 <h3 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/uma-prasad-das-79531b192/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/uma-prasad-das-79531b192/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+  </code>
+<!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> -->
 </h3>
 
 I'm Uma Prasad Das 😎 , completed my Bachelor of Technology (B. Tech.) graduation in Electronics and Communication Engineering (E.C.E.) 🙂 from National Institute of 
