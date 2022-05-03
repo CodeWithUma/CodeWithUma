@@ -34,6 +34,6 @@ or stuck in some work. I have some experience in programming languages like C, C
 
 <hr>
 
-<a><img width="100%" height="300" src="https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge"></a>
+<a><img width="100%" height="30" src="https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge"></a>
 
 (https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
