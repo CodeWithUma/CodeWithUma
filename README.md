@@ -12,10 +12,6 @@ or stuck in some work. I have some experience in programming languages like C, C
 - 💞️ I’m looking to collaborate on amazing web projects.
 - 📫 Connect Me on : [LinkedIn](https://www.linkedin.com/in/uma-prasad-das-79531b192/)
 
-<!---
-CodeWithUma/CodeWithUma is a ✨ special  repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ⚡**Projects**
 - [1. SURVEY-FORM](https://codewithuma.github.io/survey-form/)
@@ -32,8 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=blue-green"><img width="100%" height="200" src="https://github.com/anuraghazra/github-readme-stats"></a>
+
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithUma&theme=onedark&row=1&column=6&align=center)](https://github.com/CodeWithUma/github-profile-trophy)
 
