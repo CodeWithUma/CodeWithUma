@@ -26,7 +26,11 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeWithUma&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<hr>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=CodeWithUma&show_icons=true&theme=gotham"></a>
+
+<hr>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
