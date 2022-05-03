@@ -38,4 +38,4 @@ or stuck in some work. I have some experience in programming languages like C, C
 <a><img width="10%" height="30" src="https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge"></a>
 </h4> -->
             
-(https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
+[Profile Views](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
