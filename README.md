@@ -28,7 +28,7 @@ or stuck in some work. I have some experience in programming languages like C, C
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=gotham"></a>
 
 <hr>
 
