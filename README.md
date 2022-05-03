@@ -34,10 +34,6 @@ or stuck in some work. I have some experience in programming languages like C, C
 
 <hr>
 
-[!Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<a><img width="100%" height="300" src="https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge"></a>
 
-<hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithUma&theme=onedark&row=1&column=6&align=center)](https://github.com/CodeWithUma/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
+(https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
