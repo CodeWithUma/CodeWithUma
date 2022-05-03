@@ -16,6 +16,9 @@ Science and Technology (NIST Autonomous). I'm a Frontend Web Developer....
 - 🌱 I’m currently building some projects in Java.
 - 💞️ I’m looking to collaborate on amazing web projects.
 
+### Languages I work upon : 🛠
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 ⚡**Projects**
 - [1. SURVEY-FORM](https://codewithuma.github.io/survey-form/)
 - [2. JAVASCRIPT CLOCK](https://codewithuma.github.io/javascript-clock/project1.html)
