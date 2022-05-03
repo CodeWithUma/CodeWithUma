@@ -28,9 +28,10 @@ or stuck in some work. I have some experience in programming languages like C, C
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=gotham"></a>
 
 <hr>
+
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
