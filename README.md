@@ -36,9 +36,3 @@ Science and Technology (NIST Autonomous). I'm a Frontend Web Developer....
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=gotham"></a>
 
 <hr>
-
-<!-- <h4 align="cemter">
-<a><img width="10%" height="30" src="https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge"></a>
-</h4> -->
-            
-[.](https://komarev.com/ghpvc/?username=CodeWithUma&style=for-the-badge)
