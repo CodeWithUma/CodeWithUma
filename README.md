@@ -5,6 +5,7 @@ Science and Technology (NIST Autonomous). The best part about me is that I am ea
 or stuck in some work. I have some experience in programming languages like C, C++, Core Java. I'm a Frontend Web Developer.... 
             Other than this I am foodie person🍕🍔🍟🥚🍗  and loves to drink coffee ☕.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 ✨**Learning**
 - 👀 I’m interested in learning new things.
