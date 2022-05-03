@@ -33,13 +33,13 @@ Science and Technology (NIST Autonomous). I'm a Frontend Web Developer....
   <a align="left" href="https://codewithuma.github.io/survey-form/" title="1. SURVEY-FORM"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=survey-form&theme=gotham"></a><a align="right" href="https://codewithuma.github.io/javascript-clock/project1.html" title="2. JAVASCRIPT CLOCK"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=javascript-clock&theme=gotham"></a>
 </p>
 <br><br>
-<p width="100%" align="center">
+<!-- <p width="100%" align="center">
   <a align="left" href="https://codewithuma.github.io/lifestyle-store/" title="3. LIFESTYLE-STORE"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
   <a align="right" href="https://codewithuma.github.io/suman-fitness/" title="4. SUMAN-FITNESS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://codewithuma.github.io/alarm-clock/" title="5. ALARM-CLOCK"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschWithOpenMP&theme=gotham"></a>
+  <a align="left" href="https://codewithuma.github.io/alarm-clock/" title="5. ALARM-CLOCK"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschWithOpenMP&theme=gotham"></a> -->
 <!--   <a align="right" href="https://github.com/zumrudu-anka/Artificial_Neural_Networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Artificial_Neural_Networks&theme=gotham"></a> -->
 </p>
 <br><br>
