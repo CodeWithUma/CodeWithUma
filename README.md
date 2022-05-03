@@ -20,6 +20,10 @@ or stuck in some work. I have some experience in programming languages like C, C
 - [4. SUMAN-FITNESS](https://codewithuma.github.io/suman-fitness/)
 - [5. ALARM-CLOCK](https://codewithuma.github.io/alarm-clock/)
 
+<hr>
+
+<a href="https://git.io/streak-stats"><img width="100%" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithUma&theme=gotham&date_format=M%20j%5B%2C%20Y%5D"></a>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeWithUma&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
@@ -32,7 +36,7 @@ or stuck in some work. I have some experience in programming languages like C, C
 
 <hr>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[!Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUma&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
