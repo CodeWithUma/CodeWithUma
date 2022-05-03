@@ -30,7 +30,7 @@ Science and Technology (NIST Autonomous). I'm a Frontend Web Developer....
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://codewithuma.github.io/survey-form/" title="1. SURVEY-FORM"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&theme=gotham"></a><a align="right" href="https://codewithuma.github.io/javascript-clock/project1.html" title="2. JAVASCRIPT CLOCK"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&&theme=gotham"></a>
+  <a align="left" href="https://codewithuma.github.io/survey-form/" title="1. SURVEY-FORM"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=survey-form&theme=gotham"></a><a align="right" href="https://codewithuma.github.io/javascript-clock/project1.html" title="2. JAVASCRIPT CLOCK"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
