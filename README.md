@@ -39,7 +39,7 @@ I graduated from National Institute of Science and Technology (NIST Autonomous) 
   <a align="right" href="https://github.com/zumrudu-anka/Artificial_Neural_Networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Artificial_Neural_Networks&theme=gotham"></a>
 </p> -->
 <br><br>
-<br><br>
+<br><br><br><br><br><br>
 
 <hr>
 
