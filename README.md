@@ -26,11 +26,11 @@ I graduated from National Institute of Science and Technology (NIST Autonomous) 
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/CodeWithUma/survey-form" title="1. SURVEY-FORM"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=survey-form&theme=gotham"></a><a align="right" href="https://codewithuma.github.io/javascript-clock/project1.html" title="2. LIFESTYLE-STORE"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=lifestyle-store&theme=gotham"></a>
+  <a align="left" href="https://github.com/CodeWithUma/survey-form" title="1. SURVEY-FORM"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=survey-form&theme=gotham"></a><a align="right" href="https://codewithuma.github.io/javascript-clock/lifestyle-store.html" title="2. LIFESTYLE-STORE"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=lifestyle-store&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://codewithuma.github.io/lifestyle-store/" title="3. SUMAN-FITNESS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=suman-fitness&theme=gotham"></a>
+  <a align="left" href="https://codewithuma.github.io/suman-fitness/" title="3. SUMAN-FITNESS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=suman-fitness&theme=gotham"></a>
 <!--   <a align="right" href="https://codewithuma.github.io/suman-fitness/" title="4. SUMAN-FITNESS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a> -->
 </p>
 <!-- <br><br>
@@ -39,7 +39,7 @@ I graduated from National Institute of Science and Technology (NIST Autonomous) 
   <a align="right" href="https://github.com/zumrudu-anka/Artificial_Neural_Networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Artificial_Neural_Networks&theme=gotham"></a>
 </p> -->
 <br><br>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <hr>
 
