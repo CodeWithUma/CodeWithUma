@@ -8,9 +8,7 @@
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> -->
 </h3>
 
-I'm Uma Prasad Das 😎 , completed my Bachelor of Technology (B. Tech.) graduation in Electronics and Communication Engineering (E.C.E.) 🙂 from National Institute of 
-Science and Technology (NIST Autonomous). I'm a Frontend Web Developer.... 
-            Other than this I am foodie person🍕🍔🍟🥚🍗  and loves to drink coffee ☕.
+I graduated from National Institute of Science and Technology (NIST Autonomous) having specialization in Electronics and Communication Engineering (E.C.E.) 🙂 . Currently I am working as a Software Engineer. I have the expertise in Frontend Web Development with Angular. Other than this I am foodie person🍕🍔🍟🥚🍗  and loves to drink coffee ☕.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
