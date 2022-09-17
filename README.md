@@ -8,7 +8,7 @@
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> -->
 </h3>
 
-I am a Software Engineer.I graduated in Electronics and Communication Engineering (E.C.E.) 🙂 .  I have expertise in Frontend Web Development with Angular. Other than this I am a foodie person🍕🍔🍟🥚🍗  and love to drink coffee ☕.
+I am a Software Engineer as well as Open Source Contributor. I graduated in Electronics and Communication Engineering (E.C.E.) 🙂 .  I have expertise in Frontend Web Development with Angular. Other than this I am a foodie person🍕🍔🍟🥚🍗  and love to drink coffee ☕.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
