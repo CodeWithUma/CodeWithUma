@@ -1,9 +1,9 @@
 <h2 align="center">Hello there, I'm Uma Das 👋</h2>
 
 <h3 align="center">
-  <code>
+<!--   <code>
     <a href="https://www.linkedin.com/in/uma-prasad-das-79531b192/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
-  </code>
+  </code> -->
 <!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> -->
 </h3>
