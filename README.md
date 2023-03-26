@@ -20,7 +20,6 @@ I am a Software Engineer as well as an Open Source Contributor. I graduated in E
 ⚡**Projects**
 - [1. SURVEY-FORM](https://codewithuma.github.io/survey-form/)
 - [2. LIFESTYLE-STORE](https://codewithuma.github.io/lifestyle-store/)
-- [3. SUMAN-FITNESS](https://codewithuma.github.io/suman-fitness/)
 
 <hr>
 <h2 align="center">Repositories</h2>
