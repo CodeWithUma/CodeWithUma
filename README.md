@@ -22,14 +22,14 @@ I am a Software Engineer as well as an Open Source Contributor. I graduated in E
 - [2. LIFESTYLE-STORE](https://codewithuma.github.io/lifestyle-store/) -->
 
 <hr>
-<h2 align="center">Repositories</h2>
+<!-- <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/CodeWithUma/survey-form" title="1. SURVEY-FORM"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=survey-form&theme=gotham"></a><a align="right" href="https://github.com/CodeWithUma/lifestyle-store" title="2. LIFESTYLE-STORE"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=lifestyle-store&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/CodeWithUma/suman-fitness" title="3. SUMAN-FITNESS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=suman-fitness&theme=gotham"></a>
+  <a align="left" href="https://github.com/CodeWithUma/suman-fitness" title="3. SUMAN-FITNESS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithuma&repo=suman-fitness&theme=gotham"></a> -->
 <!--   <a align="right" href="https://codewithuma.github.io/suman-fitness/" title="4. SUMAN-FITNESS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a> -->
 </p>
 <!-- <br><br>
