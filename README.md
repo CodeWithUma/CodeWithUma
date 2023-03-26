@@ -16,10 +16,10 @@ I am a Software Engineer as well as an Open Source Contributor. I graduated in E
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently building some projects in Java.
 - 💞️ I’m looking to collaborate on unique web projects.
-
+<!-- 
 ⚡**Projects**
 - [1. SURVEY-FORM](https://codewithuma.github.io/survey-form/)
-- [2. LIFESTYLE-STORE](https://codewithuma.github.io/lifestyle-store/)
+- [2. LIFESTYLE-STORE](https://codewithuma.github.io/lifestyle-store/) -->
 
 <hr>
 <h2 align="center">Repositories</h2>
